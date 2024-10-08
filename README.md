@@ -13,7 +13,7 @@ This tool allows you to crop and perform edge detection on images using various 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Endless1612/ProjectADPRO-1.git
+   git clone [https://github.com/Endless1612/ProjectADPRO-1.git](https://github.com/Endless1612/EdgeDetection-and-ImageCropping-Tool.git)
 
 ## Usage
 
